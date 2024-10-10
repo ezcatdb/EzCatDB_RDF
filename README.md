@@ -6,4 +6,5 @@ Site for RDF files in EzCatDB (enzyme reaction database) <br>
    <li>JSONLD
    <li>N-Triples
    <li>Turtle
-  tar.gz file is available in each directory. <br>
+  <br>
+    tar.gz file is available in each directory. <br>
