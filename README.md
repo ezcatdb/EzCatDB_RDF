@@ -8,3 +8,5 @@ Site for RDF files in EzCatDB (enzyme reaction database) <br>
    <li>Turtle</li>
  
    The tar.gz file is available in each directory. <br>
+
+https://ezcatdb.github.io/EzCatDB_RDF/index.html
